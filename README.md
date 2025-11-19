@@ -35,3 +35,12 @@ Centralised values like colours, dimensions, and fonts.
 
 ## assets / images
 Fonts and images for congratulatory and game-over screens.
+
+
+### Game Screenshots
+<img width="995" height="722" alt="Screenshot 2025-11-19 at 3 28 25 PM" src="https://github.com/user-attachments/assets/9afc7484-dfa5-4cf9-b5b7-48d12ab22849" />
+<img width="995" height="720" alt="Screenshot 2025-11-19 at 3 28 36 PM" src="https://github.com/user-attachments/assets/31739c9d-d18b-4b0c-b004-41f2bd12be84" />
+<img width="998" height="724" alt="Screenshot 2025-11-19 at 3 25 10 PM" src="https://github.com/user-attachments/assets/c9a869ad-432d-4416-ab48-0b723a788cee" />
+<img width="960" height="724" alt="Screenshot 2025-11-19 at 3 29 42 PM" src="https://github.com/user-attachments/assets/be1c9b6e-7ae4-4d9a-ba66-a75aae3be9fc" />
+
+
